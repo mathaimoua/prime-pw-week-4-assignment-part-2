@@ -1,0 +1,19 @@
+header {
+    background-color: beige;
+}
+
+h2 {
+    background-color: rgb(184, 159, 127);
+}
+
+h3 {
+    background-color: black;
+    color: white;
+}
+
+.info {
+    text-align: center;
+    border: 1px solid black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
